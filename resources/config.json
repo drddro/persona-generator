@@ -1,0 +1,8 @@
+{
+    "persona_scheme_path": "resources/inputs/scheme.json",
+    "output":{
+        "output_path": "out",
+        "output_filename": "generated_persona.json"
+    },
+    "prompt_template_path": "resources/prompts/prompt_template.txt"
+}
