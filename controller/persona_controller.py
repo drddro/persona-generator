@@ -4,7 +4,7 @@ from services.file_reader_service import FileReaderService
 
 from services.ai_mapping_service import AIMappingService
 
-class PersonaControler:
+class PersonaController:
 
     def __init__(self, config):
 
